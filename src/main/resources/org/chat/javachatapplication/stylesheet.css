@@ -1,0 +1,45 @@
+
+#textareacss {
+    -fx-control-inner-background: #d12c20; /* orange background inside TextArea */
+    -fx-text-fill: black;                  /* optional: text color */
+     -fx-font-weight: bold;
+}
+
+#all {
+    -fx-background-color: #0046FF; /* background inside TextArea */
+
+}
+.label {
+    -fx-text-fill: 	#ff0000;
+    -fx-font-weight: bold;   /* make text bold */
+    -fx-font-size: 16px;     /* optional: slightly larger */
+}
+.button{
+    -fx-background-color: 	#ff0000;
+    -fx-text-fill: white;        /* blue text for contrast */
+     -fx-font-weight: bold;
+     -fx-border-color: #000000;     /* optional border */
+
+       -fx-border-width: 4px;
+    -fx-border-radius: 5px;      /* rounded corners */
+        -fx-background-radius: 5px;
+
+
+}
+
+#commandinfo {
+    -fx-alignment: center; /* centers all children horizontally and vertically */
+    -fx-text-alignment: center;
+}
+#hboxid .label{
+    -fx-text-fill: "white";        /* blue text for contrast */
+    -fx-font-weight: bold;
+}
+#promptid{
+
+    -fx-border-color: #000000;   /* black border */
+    -fx-border-width: 4px;       /* thickness */
+    -fx-border-radius: 4px;      /* rounded corners */
+    -fx-background-radius: 5px;  /* make background corners match */
+
+}

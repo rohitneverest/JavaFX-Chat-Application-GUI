@@ -1,0 +1,539 @@
+[2025-10-21 21:48:38] Server started on port 1234
+[2025-10-21 21:50:09] Server started on port 1234
+[2025-10-21 21:53:31] Server started on port 1234
+[2025-10-21 21:56:03] Server started on port 1234
+[2025-10-21 23:28:29] Server started on port 1234
+[2025-10-21 23:50:25] Server started on port 1234
+[2025-10-22 00:06:21] Client connected: Socket[addr=/127.0.0.1,port=56154,localport=1234] as Rohit
+[2025-10-22 00:06:21] Broadcast: [Server]: Rohit joined the chat
+[2025-10-22 00:06:32] Broadcast: Rohit: hi
+[2025-10-22 00:07:06] Broadcast: Rohit: msg rohan
+[2025-10-22 00:07:13] Connection error with Rohit: Connection reset
+[2025-10-22 00:07:13] Broadcast: [Server]: Rohit left the chat
+[2025-10-22 00:07:13] Closed connection for Rohit
+[2025-10-22 00:07:31] Server started on port 1234
+[2025-10-22 00:07:49] Client connected: Socket[addr=/127.0.0.1,port=56166,localport=1234] as rolo
+[2025-10-22 00:07:49] Broadcast: [Server]: rolo joined the chat
+[2025-10-22 00:08:13] Broadcast: rolo: Gio
+[2025-10-22 00:08:20] Broadcast: rolo: bio
+[2025-10-22 00:11:34] Connection error with rolo: Connection reset
+[2025-10-22 00:11:34] Broadcast: [Server]: rolo left the chat
+[2025-10-22 00:11:34] Closed connection for rolo
+[2025-10-22 00:11:45] Client connected: Socket[addr=/127.0.0.1,port=53621,localport=1234] as roger
+[2025-10-22 00:11:45] Broadcast: [Server]: roger joined the chat
+[2025-10-22 00:12:02] Broadcast: roger: hi guys
+[2025-10-22 00:13:59] Client connected: Socket[addr=/127.0.0.1,port=63382,localport=1234] as hae
+[2025-10-22 00:13:59] Broadcast: [Server]: hae joined the chat
+[2025-10-22 00:14:03] Broadcast: hae: hi
+[2025-10-22 00:14:10] Broadcast: hae: im gory
+[2025-10-22 00:14:47] roger -> hae (private): asdfghjk
+[2025-10-22 00:15:03] Connection error with hae: Connection reset
+[2025-10-22 00:15:03] Broadcast: [Server]: hae left the chat
+[2025-10-22 00:15:03] Closed connection for hae
+[2025-10-22 00:15:25] Client connected: Socket[addr=/127.0.0.1,port=63493,localport=1234] as bol
+[2025-10-22 00:15:25] Broadcast: [Server]: bol joined the chat
+[2025-10-22 00:15:31] Broadcast: bol: bolo
+[2025-10-22 00:15:55] Connection error with roger: Connection reset
+[2025-10-22 00:15:55] Broadcast: [Server]: roger left the chat
+[2025-10-22 00:15:55] Closed connection for roger
+[2025-10-22 00:15:59] Connection error with bol: Connection reset
+[2025-10-22 00:15:59] Broadcast: [Server]: bol left the chat
+[2025-10-22 00:15:59] Closed connection for bol
+[2025-10-22 00:24:24] Client connected: Socket[addr=/127.0.0.1,port=51708,localport=1234] as Rohit
+[2025-10-22 00:24:24] Broadcast: [Server]: Rohit joined the chat
+[2025-10-22 00:24:32] Connection error with Rohit: Connection reset
+[2025-10-22 00:24:32] Broadcast: [Server]: Rohit left the chat
+[2025-10-22 00:24:32] Closed connection for Rohit
+[2025-10-22 00:24:54] Client connected: Socket[addr=/127.0.0.1,port=51712,localport=1234] as Rohit
+[2025-10-22 00:24:54] Broadcast: [Server]: Rohit joined the chat
+[2025-10-22 00:31:26] Connection error with Rohit: Connection reset
+[2025-10-22 00:31:26] Broadcast: [Server]: Rohit left the chat
+[2025-10-22 00:31:26] Closed connection for Rohit
+[2025-10-22 00:31:33] Client connected: Socket[addr=/127.0.0.1,port=60922,localport=1234] as Roger
+[2025-10-22 00:31:33] Broadcast: [Server]: Roger joined the chat
+[2025-10-22 00:38:17] Client connected: Socket[addr=/127.0.0.1,port=55350,localport=1234] as Jojo
+[2025-10-22 00:38:17] Broadcast: [Server]: Jojo joined the chat
+[2025-10-22 00:39:11] Client connected: Socket[addr=/127.0.0.1,port=55355,localport=1234] as Varun
+[2025-10-22 00:39:11] Broadcast: [Server]: Varun joined the chat
+[2025-10-22 00:39:34] Broadcast: Roger: hi im Roger
+[2025-10-22 00:40:19] Roger -> Varun (private): hey varun this msg is to you
+[2025-10-22 00:41:31] Broadcast: Roger: im rogggggerrr
+[2025-10-22 00:42:08] Broadcast: Roger: im rogerrr /encrypt on
+[2025-10-22 00:44:36] Server started on port 1234
+[2025-10-22 00:45:15] Server started on port 1234
+[2025-10-22 00:45:43] Client connected: Socket[addr=/127.0.0.1,port=64575,localport=1234] as Vidya
+[2025-10-22 00:45:43] Broadcast: [Server]: Vidya joined the chat
+[2025-10-22 00:45:57] Client connected: Socket[addr=/127.0.0.1,port=64579,localport=1234] as Raju
+[2025-10-22 00:45:57] Broadcast: [Server]: Raju joined the chat
+[2025-10-22 00:46:13] Client connected: Socket[addr=/127.0.0.1,port=64583,localport=1234] as Gopal
+[2025-10-22 00:46:13] Broadcast: [Server]: Gopal joined the chat
+[2025-10-22 00:46:21] Broadcast: Gopal: hey guys im gopal
+[2025-10-22 00:48:24] Gopal -> Vidya (private): kesi ho
+[2025-10-22 00:48:58] Vidya -> Gopal (private): Achi hu
+[2025-10-22 00:49:56] Broadcast: Gopal: halle dil
+[2025-10-22 00:57:15] Broadcast: Vidya: jaolao
+[2025-10-22 00:57:43] Broadcast: Vidya: encrypt off
+[2025-10-22 00:58:03] Broadcast: Vidya: hahha
+[2025-10-22 01:08:05] Broadcast: Vidya: jao
+[2025-10-22 01:08:30] Broadcast: Raju: jalaop
+[2025-10-22 01:08:56] Gopal -> Vidya (private): abcd
+[2025-10-22 01:10:01] Broadcast: Vidya: /encrypt on  abcdefghi
+[2025-10-22 01:10:17] Connection error with Gopal: Connection reset
+[2025-10-22 01:10:17] Broadcast: [Server]: Gopal left the chat
+[2025-10-22 01:10:17] Closed connection for Gopal
+[2025-10-22 01:18:25] Connection error with Raju: Connection reset
+[2025-10-22 01:18:25] Broadcast: [Server]: Raju left the chat
+[2025-10-22 01:18:25] Closed connection for Raju
+[2025-10-22 01:18:29] Connection error with Vidya: Connection reset
+[2025-10-22 01:18:29] Broadcast: [Server]: Vidya left the chat
+[2025-10-22 01:18:29] Closed connection for Vidya
+[2025-10-22 01:19:00] Client connected: Socket[addr=/127.0.0.1,port=53497,localport=1234] as Aditya
+[2025-10-22 01:19:00] Broadcast: [Server]: Aditya joined the chat
+[2025-10-22 01:19:09] Client connected: Socket[addr=/127.0.0.1,port=53498,localport=1234] as Rohit
+[2025-10-22 01:19:09] Broadcast: [Server]: Rohit joined the chat
+[2025-10-22 01:19:19] Client connected: Socket[addr=/127.0.0.1,port=53499,localport=1234] as rumi
+[2025-10-22 01:19:19] Broadcast: [Server]: rumi joined the chat
+[2025-10-22 01:20:05] Broadcast: Rohit: hey im rohit
+[2025-10-22 01:20:39] Broadcast: Rohit: mera naam
+[2025-10-22 01:20:58] Broadcast: Rohit: hi
+[2025-10-22 01:21:07] Broadcast: Rohit: fghj
+[2025-10-22 01:21:19] Broadcast: rumi: hi
+[2025-10-22 01:21:25] Broadcast: Rohit: fghjkl;
+[2025-10-22 01:21:54] Connection error with Rohit: Connection reset
+[2025-10-22 01:21:54] Broadcast: [Server]: Rohit left the chat
+[2025-10-22 01:21:54] Closed connection for Rohit
+[2025-10-22 01:21:56] Connection error with Aditya: Connection reset
+[2025-10-22 01:21:56] Broadcast: [Server]: Aditya left the chat
+[2025-10-22 01:21:56] Closed connection for Aditya
+[2025-10-22 01:21:58] Connection error with rumi: Connection reset
+[2025-10-22 01:21:58] Broadcast: [Server]: rumi left the chat
+[2025-10-22 01:21:58] Closed connection for rumi
+[2025-10-22 01:23:03] Server started on port 1234
+[2025-10-22 01:23:15] Client connected: Socket[addr=/127.0.0.1,port=61357,localport=1234] as roger
+[2025-10-22 01:23:15] Broadcast: [Server]: roger joined the chat
+[2025-10-22 01:23:28] Client connected: Socket[addr=/127.0.0.1,port=61361,localport=1234] as rumi
+[2025-10-22 01:23:28] Broadcast: [Server]: rumi joined the chat
+[2025-10-22 01:23:41] Client connected: Socket[addr=/127.0.0.1,port=61367,localport=1234] as kapil
+[2025-10-22 01:23:41] Broadcast: [Server]: kapil joined the chat
+[2025-10-22 01:24:13] Broadcast: kapil: hi
+[2025-10-22 01:24:22] Broadcast: kapil: hi
+[2025-10-22 01:24:31] Broadcast: kapil: dfghjkl; sdfghjk
+[2025-10-22 01:24:55] Broadcast: kapil: ,kkk
+[2025-10-22 01:24:58] Broadcast: rumi: ppp
+[2025-10-22 01:25:16] rumi -> kapil (private): abcdef
+[2025-10-22 01:25:38] Broadcast: [Server]: rumi left the chat
+[2025-10-22 01:25:38] Closed connection for rumi
+[2025-10-22 01:25:50] Connection error with kapil: Connection reset
+[2025-10-22 01:25:50] Broadcast: [Server]: kapil left the chat
+[2025-10-22 01:25:50] Closed connection for kapil
+[2025-10-22 01:25:51] Connection error with roger: Connection reset
+[2025-10-22 01:25:51] Broadcast: [Server]: roger left the chat
+[2025-10-22 01:25:51] Closed connection for roger
+[2025-10-22 01:33:14] Client connected: Socket[addr=/127.0.0.1,port=53226,localport=1234] as roger
+[2025-10-22 01:33:14] Broadcast: [Server]: roger joined the chat
+[2025-10-22 01:33:25] Client connected: Socket[addr=/127.0.0.1,port=53230,localport=1234] as priya
+[2025-10-22 01:33:25] Broadcast: [Server]: priya joined the chat
+[2025-10-22 01:33:43] Client connected: Socket[addr=/127.0.0.1,port=53235,localport=1234] as kanika
+[2025-10-22 01:33:43] Broadcast: [Server]: kanika joined the chat
+[2025-10-22 01:34:22] Broadcast: kanika: hello
+[2025-10-22 01:34:35] Broadcast: kanika: go polo
+[2025-10-22 01:34:54] Broadcast: priya: holo
+[2025-10-22 01:35:02] Connection error with kanika: Connection reset
+[2025-10-22 01:35:02] Broadcast: [Server]: kanika left the chat
+[2025-10-22 01:35:02] Closed connection for kanika
+[2025-10-22 01:35:04] Connection error with roger: Connection reset
+[2025-10-22 01:35:04] Broadcast: [Server]: roger left the chat
+[2025-10-22 01:35:04] Closed connection for roger
+[2025-10-22 01:35:06] Connection error with priya: Connection reset
+[2025-10-22 01:35:06] Broadcast: [Server]: priya left the chat
+[2025-10-22 01:35:06] Closed connection for priya
+[2025-10-22 01:49:20] Client connected: Socket[addr=/127.0.0.1,port=57018,localport=1234] as chawla
+[2025-10-22 01:49:20] Broadcast: [Server]: chawla joined the chat
+[2025-10-22 01:49:26] Client connected: Socket[addr=/127.0.0.1,port=57019,localport=1234] as roger
+[2025-10-22 01:49:26] Broadcast: [Server]: roger joined the chat
+[2025-10-22 01:49:36] Client connected: Socket[addr=/127.0.0.1,port=57021,localport=1234] as jani
+[2025-10-22 01:49:36] Broadcast: [Server]: jani joined the chat
+[2025-10-22 01:50:34] Broadcast: roger: hi
+[2025-10-22 01:50:51] Broadcast: roger: hope
+[2025-10-22 01:50:59] Broadcast: roger: tope
+[2025-10-22 01:51:30] Broadcast: roger: jolo
+[2025-10-22 01:51:39] Connection error with roger: Connection reset
+[2025-10-22 01:51:39] Broadcast: [Server]: roger left the chat
+[2025-10-22 01:51:39] Closed connection for roger
+[2025-10-22 01:51:40] Connection error with jani: Connection reset
+[2025-10-22 01:51:40] Broadcast: [Server]: jani left the chat
+[2025-10-22 01:51:40] Closed connection for jani
+[2025-10-22 01:51:42] Connection error with chawla: Connection reset
+[2025-10-22 01:51:42] Broadcast: [Server]: chawla left the chat
+[2025-10-22 01:51:42] Closed connection for chawla
+[2025-10-22 02:01:57] Server started on port 1234
+[2025-10-22 02:02:30] Client connected: Socket[addr=/127.0.0.1,port=49842,localport=1234] as roger
+[2025-10-22 02:02:30] Broadcast: [Server]: roger joined the chat
+[2025-10-22 02:02:47] Client connected: Socket[addr=/127.0.0.1,port=49846,localport=1234] as gandhi
+[2025-10-22 02:02:47] Broadcast: [Server]: gandhi joined the chat
+[2025-10-22 02:03:00] Client connected: Socket[addr=/127.0.0.1,port=49850,localport=1234] as rahul
+[2025-10-22 02:03:00] Broadcast: [Server]: rahul joined the chat
+[2025-10-22 02:03:03] Broadcast: rahul: hi
+[2025-10-22 02:03:50] Broadcast: [Server]: rahul left the chat
+[2025-10-22 02:03:50] Closed connection for rahul
+[2025-10-22 02:04:19] Connection error with roger: Connection reset
+[2025-10-22 02:04:19] Broadcast: [Server]: roger left the chat
+[2025-10-22 02:04:19] Closed connection for roger
+[2025-10-22 02:04:53] Client connected: Socket[addr=/127.0.0.1,port=61567,localport=1234] as rahul
+[2025-10-22 02:04:53] Broadcast: [Server]: rahul joined the chat
+[2025-10-22 02:05:12] Connection error with rahul: Connection reset
+[2025-10-22 02:05:12] Broadcast: [Server]: rahul left the chat
+[2025-10-22 02:05:12] Closed connection for rahul
+[2025-10-22 02:05:20] Client connected: Socket[addr=/127.0.0.1,port=61571,localport=1234] as happy
+[2025-10-22 02:05:20] Broadcast: [Server]: happy joined the chat
+[2025-10-22 02:06:16] Client connected: Socket[addr=/127.0.0.1,port=54155,localport=1234] as krish
+[2025-10-22 02:06:16] Broadcast: [Server]: krish joined the chat
+[2025-10-22 02:06:45] Broadcast: happy: hi
+[2025-10-22 02:07:00] Broadcast: happy: hello everu
+[2025-10-22 02:07:05] Broadcast: happy: hello
+[2025-10-22 02:07:14] Connection error with happy: Connection reset
+[2025-10-22 02:07:14] Broadcast: [Server]: happy left the chat
+[2025-10-22 02:07:14] Closed connection for happy
+[2025-10-22 02:07:16] Connection error with gandhi: Connection reset
+[2025-10-22 02:07:16] Broadcast: [Server]: gandhi left the chat
+[2025-10-22 02:07:16] Closed connection for gandhi
+[2025-10-22 02:07:17] Connection error with krish: Connection reset
+[2025-10-22 02:07:17] Broadcast: [Server]: krish left the chat
+[2025-10-22 02:07:17] Closed connection for krish
+[2025-10-22 02:26:25] Client connected: Socket[addr=/127.0.0.1,port=61939,localport=1234] as roger
+[2025-10-22 02:26:25] Broadcast: [Server]: roger joined the chat
+[2025-10-22 02:26:50] Client connected: Socket[addr=/127.0.0.1,port=61945,localport=1234] as anita
+[2025-10-22 02:26:50] Broadcast: [Server]: anita joined the chat
+[2025-10-22 02:27:00] Client connected: Socket[addr=/127.0.0.1,port=61949,localport=1234] as loser
+[2025-10-22 02:27:00] Broadcast: [Server]: loser joined the chat
+[2025-10-22 02:27:20] Broadcast: loser: hi
+[2025-10-22 02:27:27] Broadcast: loser: L2VuY3J5cHQgb24=
+[2025-10-22 02:27:36] Broadcast: loser: hey
+[2025-10-22 02:27:48] Broadcast: loser: jio
+[2025-10-22 02:53:04] Server started on port 1234
+[2025-10-22 02:53:40] Client connected: Socket[addr=/127.0.0.1,port=55089,localport=1234] as roger
+[2025-10-22 02:53:40] Broadcast: [Server]: roger joined the chat
+[2025-10-22 02:53:46] Client connected: Socket[addr=/127.0.0.1,port=55091,localport=1234] as rahul
+[2025-10-22 02:53:46] Broadcast: [Server]: rahul joined the chat
+[2025-10-22 02:53:54] Broadcast: roger: samantha
+[2025-10-22 02:54:07] Client connected: Socket[addr=/127.0.0.1,port=55092,localport=1234] as hanuman
+[2025-10-22 02:54:07] Broadcast: [Server]: hanuman joined the chat
+[2025-10-22 02:54:38] Broadcast: rahul: ho
+[2025-10-22 02:54:43] Broadcast: rahul: fgg
+[2025-10-22 02:54:46] Broadcast: rahul: dfghjk
+[2025-10-22 02:54:47] Broadcast: rahul: dfgh
+[2025-10-22 02:55:00] rahul -> hanuman (private): hello
+[2025-10-22 02:55:28] Broadcast: rahul: YUdscGFRPT0=
+[2025-10-22 02:55:48] Broadcast: rahul: YTJGcGMyVWdhRzg9
+[2025-10-22 02:55:58] Broadcast: rahul: YTNsaElHRnlaU0I1YjNVZ1ozVjVjeUJ2YTJGNQ==
+[2025-10-22 02:56:06] Broadcast: hanuman: hello
+[2025-10-22 02:56:33] Broadcast: rahul: YUdrPQ==
+[2025-10-22 02:56:40] Broadcast: hanuman: ji
+[2025-10-22 02:56:57] Broadcast: hanuman: encrypt on
+[2025-10-22 02:57:06] Broadcast: hanuman: YUdrPQ==
+[2025-10-22 02:57:15] Broadcast: hanuman: YUdWc2JHOD0=
+[2025-10-22 02:57:21] Broadcast: rahul: YTJGcGMyVWdhRzg9
+[2025-10-22 02:57:43] Broadcast: roger: hi
+[2025-10-22 02:57:48] Broadcast: hanuman: WjNWNQ==
+[2025-10-22 02:57:56] Broadcast: rahul: WW5WNQ==
+[2025-10-22 02:58:08] Connection error with rahul: Connection reset
+[2025-10-22 02:58:08] Broadcast: [Server]: rahul left the chat
+[2025-10-22 02:58:08] Closed connection for rahul
+[2025-10-22 02:58:11] Connection error with roger: Connection reset
+[2025-10-22 02:58:11] Broadcast: [Server]: roger left the chat
+[2025-10-22 02:58:11] Closed connection for roger
+[2025-10-22 02:58:12] Connection error with hanuman: Connection reset
+[2025-10-22 02:58:12] Broadcast: [Server]: hanuman left the chat
+[2025-10-22 02:58:12] Closed connection for hanuman
+[2025-10-22 03:11:55] Server started on port 1234
+[2025-10-22 03:15:06] Client connected: Socket[addr=/127.0.0.1,port=53211,localport=1234] as hello
+[2025-10-22 03:15:06] Broadcast: [Server]: hello joined the chat
+[2025-10-22 03:18:24] Connection error with hello: Connection reset
+[2025-10-22 03:18:24] Broadcast: [Server]: hello left the chat
+[2025-10-22 03:18:24] Closed connection for hello
+[2025-10-22 03:18:31] Client connected: Socket[addr=/127.0.0.1,port=61520,localport=1234] as heelo
+[2025-10-22 03:18:31] Broadcast: [Server]: heelo joined the chat
+[2025-10-22 03:18:42] Connection error with heelo: Connection reset
+[2025-10-22 03:18:42] Broadcast: [Server]: heelo left the chat
+[2025-10-22 03:18:42] Closed connection for heelo
+[2025-10-22 03:19:07] Client connected: Socket[addr=/127.0.0.1,port=62226,localport=1234] as hel
+[2025-10-22 03:19:07] Broadcast: [Server]: hel joined the chat
+[2025-10-22 03:31:23] Connection error with hel: Connection reset
+[2025-10-22 03:31:23] Broadcast: [Server]: hel left the chat
+[2025-10-22 03:31:23] Closed connection for hel
+[2025-10-22 03:31:43] Client connected: Socket[addr=/127.0.0.1,port=62588,localport=1234] as ghj
+[2025-10-22 03:31:43] Broadcast: [Server]: ghj joined the chat
+[2025-10-22 03:31:46] Connection error with ghj: Connection reset
+[2025-10-22 03:31:46] Broadcast: [Server]: ghj left the chat
+[2025-10-22 03:31:46] Closed connection for ghj
+[2025-10-22 03:39:14] Client connected: Socket[addr=/127.0.0.1,port=52230,localport=1234] as hjk
+[2025-10-22 03:39:14] Broadcast: [Server]: hjk joined the chat
+[2025-10-22 03:39:33] Connection error with hjk: Connection reset
+[2025-10-22 03:39:33] Broadcast: [Server]: hjk left the chat
+[2025-10-22 03:39:33] Closed connection for hjk
+[2025-10-22 03:42:33] Client connected: Socket[addr=/127.0.0.1,port=64560,localport=1234] as fghj
+[2025-10-22 03:42:33] Broadcast: [Server]: fghj joined the chat
+[2025-10-22 03:53:51] Client connected: Socket[addr=/127.0.0.1,port=59311,localport=1234] as fgh
+[2025-10-22 03:53:51] Broadcast: [Server]: fgh joined the chat
+[2025-10-22 03:53:55] Broadcast: fgh: fghjk
+[2025-10-22 03:54:03] Connection error with fgh: Connection reset
+[2025-10-22 03:54:03] Broadcast: [Server]: fgh left the chat
+[2025-10-22 03:54:03] Closed connection for fgh
+[2025-10-22 03:54:20] Connection error with fghj: Connection reset
+[2025-10-22 03:54:20] Broadcast: [Server]: fghj left the chat
+[2025-10-22 03:54:20] Closed connection for fghj
+[2025-10-22 03:59:02] Client connected: Socket[addr=/127.0.0.1,port=53055,localport=1234] as fghjkl;
+[2025-10-22 03:59:02] Broadcast: [Server]: fghjkl; joined the chat
+[2025-10-22 04:01:07] Connection error with fghjkl;: Connection reset
+[2025-10-22 04:01:07] Broadcast: [Server]: fghjkl; left the chat
+[2025-10-22 04:01:07] Closed connection for fghjkl;
+[2025-10-22 04:01:11] Client connected: Socket[addr=/127.0.0.1,port=53447,localport=1234] as h
+[2025-10-22 04:01:11] Broadcast: [Server]: h joined the chat
+[2025-10-22 04:01:16] Broadcast: h: ghj
+[2025-10-22 04:01:21] Broadcast: h: hello
+[2025-10-22 04:12:22] Connection error with h: Connection reset
+[2025-10-22 04:12:22] Broadcast: [Server]: h left the chat
+[2025-10-22 04:12:22] Closed connection for h
+[2025-10-22 04:12:30] Client connected: Socket[addr=/127.0.0.1,port=58381,localport=1234] as fghj
+[2025-10-22 04:12:30] Broadcast: [Server]: fghj joined the chat
+[2025-10-22 04:12:34] Connection error with fghj: Connection reset
+[2025-10-22 04:12:34] Broadcast: [Server]: fghj left the chat
+[2025-10-22 04:12:34] Closed connection for fghj
+[2025-10-22 04:26:44] Client connected: Socket[addr=/127.0.0.1,port=60393,localport=1234] as User112
+[2025-10-22 04:26:44] Broadcast: [Server]: User112 joined the chat
+[2025-10-22 04:26:46] Connection error with User112: Connection reset
+[2025-10-22 04:26:46] Broadcast: [Server]: User112 left the chat
+[2025-10-22 04:26:46] Closed connection for User112
+[2025-10-22 04:29:55] Client connected: Socket[addr=/127.0.0.1,port=63185,localport=1234] as User111
+[2025-10-22 04:29:55] Broadcast: [Server]: User111 joined the chat
+[2025-10-22 04:29:57] Connection error with User111: Connection reset
+[2025-10-22 04:29:57] Broadcast: [Server]: User111 left the chat
+[2025-10-22 04:29:57] Closed connection for User111
+[2025-10-22 04:30:56] Client connected: Socket[addr=/127.0.0.1,port=63192,localport=1234] as User182
+[2025-10-22 04:30:56] Broadcast: [Server]: User182 joined the chat
+[2025-10-22 04:30:58] Connection error with User182: Connection reset
+[2025-10-22 04:30:58] Broadcast: [Server]: User182 left the chat
+[2025-10-22 04:30:58] Closed connection for User182
+[2025-10-22 04:31:35] Client connected: Socket[addr=/127.0.0.1,port=63196,localport=1234] as User180
+[2025-10-22 04:31:35] Broadcast: [Server]: User180 joined the chat
+[2025-10-22 04:31:44] Connection error with User180: Connection reset
+[2025-10-22 04:31:44] Broadcast: [Server]: User180 left the chat
+[2025-10-22 04:31:44] Closed connection for User180
+[2025-10-22 04:32:34] Client connected: Socket[addr=/127.0.0.1,port=59543,localport=1234] as User233
+[2025-10-22 04:32:34] Broadcast: [Server]: User233 joined the chat
+[2025-10-22 04:32:47] Broadcast: User233: khwbfla
+[2025-10-22 04:32:48] Broadcast: User233: aljbf
+[2025-10-22 04:32:50] Broadcast: User233: ajwbrf
+[2025-10-22 04:32:51] Broadcast: User233: lkbarf
+[2025-10-22 04:32:52] Broadcast: User233: akwbhf
+[2025-10-22 04:32:53] Broadcast: User233: wljhrf
+[2025-10-22 04:33:02] Connection error with User233: Connection reset
+[2025-10-22 04:33:02] Broadcast: [Server]: User233 left the chat
+[2025-10-22 04:33:02] Closed connection for User233
+[2025-10-22 04:34:00] Client connected: Socket[addr=/127.0.0.1,port=59551,localport=1234] as User967
+[2025-10-22 04:34:00] Broadcast: [Server]: User967 joined the chat
+[2025-10-22 04:34:03] Connection error with User967: Connection reset
+[2025-10-22 04:34:03] Broadcast: [Server]: User967 left the chat
+[2025-10-22 04:34:03] Closed connection for User967
+[2025-10-22 04:35:12] Client connected: Socket[addr=/127.0.0.1,port=51876,localport=1234] as User386
+[2025-10-22 04:35:12] Broadcast: [Server]: User386 joined the chat
+[2025-10-22 04:35:15] Connection error with User386: Connection reset
+[2025-10-22 04:35:15] Broadcast: [Server]: User386 left the chat
+[2025-10-22 04:35:15] Closed connection for User386
+[2025-10-22 04:35:26] Client connected: Socket[addr=/127.0.0.1,port=51880,localport=1234] as User35
+[2025-10-22 04:35:26] Broadcast: [Server]: User35 joined the chat
+[2025-10-22 04:35:32] Connection error with User35: Connection reset
+[2025-10-22 04:35:32] Broadcast: [Server]: User35 left the chat
+[2025-10-22 04:35:32] Closed connection for User35
+[2025-10-22 04:36:01] Client connected: Socket[addr=/127.0.0.1,port=58970,localport=1234] as User645
+[2025-10-22 04:36:01] Broadcast: [Server]: User645 joined the chat
+[2025-10-22 04:36:03] Connection error with User645: Connection reset
+[2025-10-22 04:36:03] Broadcast: [Server]: User645 left the chat
+[2025-10-22 04:36:03] Closed connection for User645
+[2025-10-22 04:36:16] Client connected: Socket[addr=/127.0.0.1,port=58974,localport=1234] as User96
+[2025-10-22 04:36:16] Broadcast: [Server]: User96 joined the chat
+[2025-10-22 04:36:19] Connection error with User96: Connection reset
+[2025-10-22 04:36:19] Broadcast: [Server]: User96 left the chat
+[2025-10-22 04:36:19] Closed connection for User96
+[2025-10-22 04:37:59] Client connected: Socket[addr=/127.0.0.1,port=51014,localport=1234] as User593
+[2025-10-22 04:37:59] Broadcast: [Server]: User593 joined the chat
+[2025-10-22 04:38:14] Connection error with User593: Connection reset
+[2025-10-22 04:38:14] Broadcast: [Server]: User593 left the chat
+[2025-10-22 04:38:14] Closed connection for User593
+[2025-10-22 04:38:46] Client connected: Socket[addr=/127.0.0.1,port=51019,localport=1234] as User406
+[2025-10-22 04:38:46] Broadcast: [Server]: User406 joined the chat
+[2025-10-22 04:39:24] Connection error with User406: Connection reset
+[2025-10-22 04:39:24] Broadcast: [Server]: User406 left the chat
+[2025-10-22 04:39:24] Closed connection for User406
+[2025-10-22 04:39:28] Client connected: Socket[addr=/127.0.0.1,port=51023,localport=1234] as User171
+[2025-10-22 04:39:28] Broadcast: [Server]: User171 joined the chat
+[2025-10-22 04:39:31] Connection error with User171: Connection reset
+[2025-10-22 04:39:31] Broadcast: [Server]: User171 left the chat
+[2025-10-22 04:39:31] Closed connection for User171
+[2025-10-22 04:40:39] Client connected: Socket[addr=/127.0.0.1,port=51027,localport=1234] as User609
+[2025-10-22 04:40:39] Broadcast: [Server]: User609 joined the chat
+[2025-10-22 04:40:41] Connection error with User609: Connection reset
+[2025-10-22 04:40:41] Broadcast: [Server]: User609 left the chat
+[2025-10-22 04:40:41] Closed connection for User609
+[2025-10-22 04:40:57] Client connected: Socket[addr=/127.0.0.1,port=65014,localport=1234] as User708
+[2025-10-22 04:40:57] Broadcast: [Server]: User708 joined the chat
+[2025-10-22 04:52:28] Connection error with User708: Connection reset
+[2025-10-22 04:52:28] Broadcast: [Server]: User708 left the chat
+[2025-10-22 04:52:28] Closed connection for User708
+[2025-10-22 04:52:38] Client connected: Socket[addr=/127.0.0.1,port=50704,localport=1234] as User59
+[2025-10-22 04:52:38] Broadcast: [Server]: User59 joined the chat
+[2025-10-22 04:52:52] Connection error with User59: Connection reset
+[2025-10-22 04:52:52] Broadcast: [Server]: User59 left the chat
+[2025-10-22 04:52:52] Closed connection for User59
+[2025-10-22 04:54:31] Client connected: Socket[addr=/127.0.0.1,port=51850,localport=1234] as User498
+[2025-10-22 04:54:31] Broadcast: [Server]: User498 joined the chat
+[2025-10-22 04:54:37] Broadcast: User498: hello
+[2025-10-22 04:55:17] Connection error with User498: Connection reset
+[2025-10-22 04:55:17] Broadcast: [Server]: User498 left the chat
+[2025-10-22 04:55:17] Closed connection for User498
+[2025-10-22 04:56:17] Client connected: Socket[addr=/127.0.0.1,port=64962,localport=1234] as User931
+[2025-10-22 04:56:17] Broadcast: [Server]: User931 joined the chat
+[2025-10-22 04:56:24] Broadcast: User931: sdbfoaw
+[2025-10-22 04:57:13] Connection error with User931: Connection reset
+[2025-10-22 04:57:13] Broadcast: [Server]: User931 left the chat
+[2025-10-22 04:57:13] Closed connection for User931
+[2025-10-22 04:57:17] Client connected: Socket[addr=/127.0.0.1,port=64968,localport=1234] as User198
+[2025-10-22 04:57:17] Broadcast: [Server]: User198 joined the chat
+[2025-10-22 04:57:53] Connection error with User198: Connection reset
+[2025-10-22 04:57:53] Broadcast: [Server]: User198 left the chat
+[2025-10-22 04:57:53] Closed connection for User198
+[2025-10-22 04:57:57] Client connected: Socket[addr=/127.0.0.1,port=64972,localport=1234] as User163
+[2025-10-22 04:57:57] Broadcast: [Server]: User163 joined the chat
+[2025-10-22 04:58:00] Connection error with User163: Connection reset
+[2025-10-22 04:58:00] Broadcast: [Server]: User163 left the chat
+[2025-10-22 04:58:00] Closed connection for User163
+[2025-10-22 04:58:17] Client connected: Socket[addr=/127.0.0.1,port=64979,localport=1234] as User329
+[2025-10-22 04:58:17] Broadcast: [Server]: User329 joined the chat
+[2025-10-22 04:58:58] Connection error with User329: Connection reset
+[2025-10-22 04:58:58] Broadcast: [Server]: User329 left the chat
+[2025-10-22 04:58:58] Closed connection for User329
+[2025-10-22 04:59:03] Client connected: Socket[addr=/127.0.0.1,port=52532,localport=1234] as User613
+[2025-10-22 04:59:03] Broadcast: [Server]: User613 joined the chat
+[2025-10-22 04:59:50] Connection error with User613: Connection reset
+[2025-10-22 04:59:50] Broadcast: [Server]: User613 left the chat
+[2025-10-22 04:59:50] Closed connection for User613
+[2025-10-22 04:59:55] Client connected: Socket[addr=/127.0.0.1,port=52537,localport=1234] as User574
+[2025-10-22 04:59:55] Broadcast: [Server]: User574 joined the chat
+[2025-10-22 05:00:17] Broadcast: User574: aikbwoglr
+[2025-10-22 05:02:48] Connection error with User574: Connection reset
+[2025-10-22 05:02:48] Broadcast: [Server]: User574 left the chat
+[2025-10-22 05:02:48] Closed connection for User574
+[2025-10-22 05:03:00] Client connected: Socket[addr=/127.0.0.1,port=58871,localport=1234] as User695
+[2025-10-22 05:03:00] Broadcast: [Server]: User695 joined the chat
+[2025-10-22 05:03:51] Connection error with User695: Connection reset
+[2025-10-22 05:03:51] Broadcast: [Server]: User695 left the chat
+[2025-10-22 05:03:51] Closed connection for User695
+[2025-10-22 05:04:04] Client connected: Socket[addr=/127.0.0.1,port=52499,localport=1234] as User849
+[2025-10-22 05:04:04] Broadcast: [Server]: User849 joined the chat
+[2025-10-22 05:04:08] Connection error with User849: Connection reset
+[2025-10-22 05:04:08] Broadcast: [Server]: User849 left the chat
+[2025-10-22 05:04:08] Closed connection for User849
+[2025-10-22 05:04:48] Client connected: Socket[addr=/127.0.0.1,port=63986,localport=1234] as User121
+[2025-10-22 05:04:48] Broadcast: [Server]: User121 joined the chat
+[2025-10-22 05:06:28] Connection error with User121: Connection reset
+[2025-10-22 05:06:28] Broadcast: [Server]: User121 left the chat
+[2025-10-22 05:06:28] Closed connection for User121
+[2025-10-22 05:06:39] Client connected: Socket[addr=/127.0.0.1,port=59677,localport=1234] as User978
+[2025-10-22 05:06:39] Broadcast: [Server]: User978 joined the chat
+[2025-10-22 05:06:50] Connection error with User978: Connection reset
+[2025-10-22 05:06:50] Broadcast: [Server]: User978 left the chat
+[2025-10-22 05:06:50] Closed connection for User978
+[2025-10-22 05:08:25] Client connected: Socket[addr=/127.0.0.1,port=64694,localport=1234] as User517
+[2025-10-22 05:08:25] Broadcast: [Server]: User517 joined the chat
+[2025-10-22 05:08:32] Connection error with User517: Connection reset
+[2025-10-22 05:08:32] Broadcast: [Server]: User517 left the chat
+[2025-10-22 05:08:32] Closed connection for User517
+[2025-10-22 05:09:42] Client connected: Socket[addr=/127.0.0.1,port=64698,localport=1234] as User902
+[2025-10-22 05:09:42] Broadcast: [Server]: User902 joined the chat
+[2025-10-22 05:09:58] Connection error with User902: Connection reset
+[2025-10-22 05:09:58] Broadcast: [Server]: User902 left the chat
+[2025-10-22 05:09:58] Closed connection for User902
+[2025-10-22 05:10:09] Client connected: Socket[addr=/127.0.0.1,port=64702,localport=1234] as User544
+[2025-10-22 05:10:09] Broadcast: [Server]: User544 joined the chat
+[2025-10-22 05:10:55] Connection error with User544: Connection reset
+[2025-10-22 05:10:55] Broadcast: [Server]: User544 left the chat
+[2025-10-22 05:10:55] Closed connection for User544
+[2025-10-22 05:11:07] Client connected: Socket[addr=/127.0.0.1,port=49949,localport=1234] as User569
+[2025-10-22 05:11:07] Broadcast: [Server]: User569 joined the chat
+[2025-10-22 05:11:14] Connection error with User569: Connection reset
+[2025-10-22 05:11:14] Broadcast: [Server]: User569 left the chat
+[2025-10-22 05:11:14] Closed connection for User569
+[2025-10-22 05:12:01] Client connected: Socket[addr=/127.0.0.1,port=49953,localport=1234] as User187
+[2025-10-22 05:12:01] Broadcast: [Server]: User187 joined the chat
+[2025-10-22 05:12:06] Connection error with User187: Connection reset
+[2025-10-22 05:12:06] Broadcast: [Server]: User187 left the chat
+[2025-10-22 05:12:06] Closed connection for User187
+[2025-10-22 05:12:36] Client connected: Socket[addr=/127.0.0.1,port=49960,localport=1234] as User800
+[2025-10-22 05:12:36] Broadcast: [Server]: User800 joined the chat
+[2025-10-22 05:12:55] Connection error with User800: Connection reset
+[2025-10-22 05:12:55] Broadcast: [Server]: User800 left the chat
+[2025-10-22 05:12:55] Closed connection for User800
+[2025-10-22 05:13:15] Client connected: Socket[addr=/127.0.0.1,port=53716,localport=1234] as User295
+[2025-10-22 05:13:15] Broadcast: [Server]: User295 joined the chat
+[2025-10-22 05:13:27] Connection error with User295: Connection reset
+[2025-10-22 05:13:27] Broadcast: [Server]: User295 left the chat
+[2025-10-22 05:13:27] Closed connection for User295
+[2025-10-22 05:14:28] Client connected: Socket[addr=/127.0.0.1,port=53720,localport=1234] as User45
+[2025-10-22 05:14:28] Broadcast: [Server]: User45 joined the chat
+[2025-10-22 05:14:31] Connection error with User45: Connection reset
+[2025-10-22 05:14:31] Broadcast: [Server]: User45 left the chat
+[2025-10-22 05:14:31] Closed connection for User45
+[2025-10-22 05:14:49] Client connected: Socket[addr=/127.0.0.1,port=53724,localport=1234] as User719
+[2025-10-22 05:14:49] Broadcast: [Server]: User719 joined the chat
+[2025-10-22 05:14:51] Connection error with User719: Connection reset
+[2025-10-22 05:14:51] Broadcast: [Server]: User719 left the chat
+[2025-10-22 05:14:51] Closed connection for User719
+[2025-10-22 05:15:04] Client connected: Socket[addr=/127.0.0.1,port=53728,localport=1234] as User965
+[2025-10-22 05:15:04] Broadcast: [Server]: User965 joined the chat
+[2025-10-22 05:15:06] Connection error with User965: Connection reset
+[2025-10-22 05:15:06] Broadcast: [Server]: User965 left the chat
+[2025-10-22 05:15:06] Closed connection for User965
+[2025-10-22 05:15:23] Client connected: Socket[addr=/127.0.0.1,port=53732,localport=1234] as User434
+[2025-10-22 05:15:23] Broadcast: [Server]: User434 joined the chat
+[2025-10-22 05:15:32] Connection error with User434: Connection reset
+[2025-10-22 05:15:32] Broadcast: [Server]: User434 left the chat
+[2025-10-22 05:15:32] Closed connection for User434
+[2025-10-22 05:15:48] Client connected: Socket[addr=/127.0.0.1,port=53736,localport=1234] as User662
+[2025-10-22 05:15:48] Broadcast: [Server]: User662 joined the chat
+[2025-10-22 05:15:50] Connection error with User662: Connection reset
+[2025-10-22 05:15:50] Broadcast: [Server]: User662 left the chat
+[2025-10-22 05:15:50] Closed connection for User662
+[2025-10-22 05:16:10] Client connected: Socket[addr=/127.0.0.1,port=53740,localport=1234] as User301
+[2025-10-22 05:16:10] Broadcast: [Server]: User301 joined the chat
+[2025-10-22 05:16:13] Connection error with User301: Connection reset
+[2025-10-22 05:16:13] Broadcast: [Server]: User301 left the chat
+[2025-10-22 05:16:13] Closed connection for User301
+[2025-10-22 05:16:33] Client connected: Socket[addr=/127.0.0.1,port=53744,localport=1234] as User994
+[2025-10-22 05:16:33] Broadcast: [Server]: User994 joined the chat
+[2025-10-22 05:16:34] Connection error with User994: Connection reset
+[2025-10-22 05:16:34] Broadcast: [Server]: User994 left the chat
+[2025-10-22 05:16:34] Closed connection for User994
+[2025-10-22 05:17:29] Client connected: Socket[addr=/127.0.0.1,port=61479,localport=1234] as User562
+[2025-10-22 05:17:29] Broadcast: [Server]: User562 joined the chat
+[2025-10-22 05:18:04] Broadcast: User562: fhgjkblk;l;
+[2025-10-22 05:18:06] Broadcast: User562: fhghbkjln
+[2025-10-22 05:18:08] Broadcast: User562: ghbjnkml,
+[2025-10-22 05:18:28] Connection error with User562: Connection reset
+[2025-10-22 05:18:28] Broadcast: [Server]: User562 left the chat
+[2025-10-22 05:18:28] Closed connection for User562
+[2025-10-22 14:10:34] Server started on port 1234
+[2025-10-22 14:10:48] Client connected: Socket[addr=/127.0.0.1,port=55968,localport=1234] as FGHJK
+[2025-10-22 14:10:48] Broadcast: [Server]: FGHJK joined the chat
+[2025-10-22 14:10:52] Broadcast: FGHJK: GBHJKL
+[2025-10-22 14:14:28] Server started on port 1234
+[2025-10-22 14:14:36] Client connected: Socket[addr=/127.0.0.1,port=62008,localport=1234] as dfghj
+[2025-10-22 14:14:36] Broadcast: [Server]: dfghj joined the chat
+[2025-10-22 14:14:39] Connection error with dfghj: Connection reset
+[2025-10-22 14:14:39] Broadcast: [Server]: dfghj left the chat
+[2025-10-22 14:14:39] Closed connection for dfghj
+[2025-10-22 14:20:28] Server started on port 1234
+[2025-10-22 14:20:38] Client connected: Socket[addr=/127.0.0.1,port=52097,localport=1234] as User900
+[2025-10-22 14:20:38] Broadcast: [Server]: User900 joined the chat
+[2025-10-22 14:20:39] Connection error with User900: Connection reset
+[2025-10-22 14:20:39] Broadcast: [Server]: User900 left the chat
+[2025-10-22 14:20:39] Closed connection for User900
